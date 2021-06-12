@@ -20,6 +20,10 @@ body{
     display: none;
 }
 
+img{
+    height: 350px;
+}
+
 img.active{
     display: block;
     animation: fade 0.8s;
@@ -39,5 +43,8 @@ img.active{
     justify-content: center;
 }
 
-
+.btn-nav{
+    font-size: 50px;
+    margin: 0 15px;
+}
 
